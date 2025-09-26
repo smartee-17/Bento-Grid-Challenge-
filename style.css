@@ -76,7 +76,7 @@ body{
 
 .container{
   width: 39.5rem;
-  height: 80vh;
+  height: auto;
   display: grid;
   grid-template-columns: 12rem 1fr 1fr 12rem;
   margin: auto;
